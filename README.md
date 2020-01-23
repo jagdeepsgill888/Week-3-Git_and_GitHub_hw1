@@ -1,13 +1,13 @@
 # Git_and_GitHub_hw1 Week 3 class build
 
-##Description
+## Description
 1054-01-2 Week 3 class build
 
 
-##Installation
+## Installation
 There is no installation process for this repo.Simply pulldown and start working!
 
-##MIT License
+## MIT License
 MIT License
 
 MIT License
